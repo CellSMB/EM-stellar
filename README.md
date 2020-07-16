@@ -1,21 +1,21 @@
 # EM-stellar
-This repository is official implementation of [**EM-stellar: benchmarking deep learning for electron microscopy image segmentation**](https://www.biorxiv.org) on Google Colab.
+This repository is official implementation of [**EM-stellar: benchmarking deep learning for electron microscopy image segmentation**](https://www.biorxiv.org/content/10.1101/2020.07.15.203836v1) on Google Colab.
 
 ---
 
-<font size = 4>This notebook represents the implementation of the [**EM-stellar**](https://www.biorxiv.org). Deep learning (DL) methods offer an exciting opportunity to automate the segmentation process by learning from manual annotations of a small sample of EM data. While many DL methods are being rapidly adopted to segment EM data no benchmark analysis has been conducted on these methods to date. We present EM-stellar as a platform that can be used to benchmark the performance of a range of state-of-the-art DL methods on user-provided datasets. 
+<font size = 4>This notebook represents the implementation of the [**EM-stellar**](https://www.biorxiv.org/content/10.1101/2020.07.15.203836v1). Deep learning (DL) methods offer an exciting opportunity to automate the segmentation process by learning from manual annotations of a small sample of EM data. While many DL methods are being rapidly adopted to segment EM data no benchmark analysis has been conducted on these methods to date. We present EM-stellar as a platform that can be used to benchmark the performance of a range of state-of-the-art DL methods on user-provided datasets. 
 
 
 
 ---
 <font size = 4>Papers related to this Notebook: 
 
-- <font size = 3>**EM-stellar: benchmarking deep learning for electron microscopy image segmentation** by *Afshin Khadangi, Thomas Boudier, Vijay Rajagopal*  (https://www.biorxiv.org/)
+- <font size = 3>**EM-stellar: benchmarking deep learning for electron microscopy image segmentation** by *Afshin Khadangi, Thomas Boudier, Vijay Rajagopal*  (https://www.biorxiv.org/content/10.1101/2020.07.15.203836v1)
 
 - <font size = 3>**EM-net: Deep learning for electron microscopy image segmentation** by *Afshin Khadangi, Thomas Boudier, Vijay Rajagopal*  (https://www.biorxiv.org/content/10.1101/2020.02.03.933127v1)
 
 
-<font size = 4>**Please cite** [**this original paper**](https://www.biorxiv.org) **when using or developing this notebook.**
+<font size = 4>**Please cite** [**this original paper**](https://www.biorxiv.org/content/10.1101/2020.07.15.203836v1) **when using or developing this notebook.**
   
   ---
 
