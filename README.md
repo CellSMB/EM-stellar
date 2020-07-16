@@ -22,7 +22,7 @@ This repository is official implementation of [**EM-stellar: benchmarking deep l
 # **How to use?!**
 
 <font size = 4>We have provided the instructions for the usage of this Notebook in the following link:
-  - [**Colab Notebook**](https://colab.research.google.com/github/akhadangi): Walk through the pipeline including data upload and deploying the benchmarking.
+  - [**Colab Notebook**](https://colab.research.google.com/github/akhadangi/EM-stellar/blob/master/EM_stellar.ipynb): Walk through the pipeline including data upload and deploying the benchmarking.
 
 **Important: Make sure that you create a copy of the following Colab Notebook on your Google Drive before running or making any changes to the notebook**
 
