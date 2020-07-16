@@ -27,6 +27,10 @@ This repository is official implementation of [**EM-stellar: benchmarking deep l
 **Important: Make sure that you create a copy of the following Colab Notebook on your Google Drive before running or making any changes to the notebook**
 
 ---
+### **Images**
+<font size = 4>We have provided a sample dataset as folder "Images", which includes the directories of the ground-truth and predicted segmentation masks. These images can be used as a demo implementation of the EM-stellar. However, you are encouraged to follow the same formatting and structure to try EM-stellar on your own data. For further information, please follow the instructions as highlighted on the notebook.  
+
+---
 ### **Structure of a notebook**
 
 <font size = 4>The notebook contains two types of cell:  
