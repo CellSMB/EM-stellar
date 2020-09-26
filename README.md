@@ -75,8 +75,28 @@ To install pyimagej:
 ```
 $ pip install pyimagej
 ```
+To install scikit-learn:
+```
+$ pip install scikit-learn
+```
 To install scikit-image:
 ```
 $ pip install scikit-image
+```
+To install pandas:
+```
+$ pip install pandas
+```
+To install tqdm:
+```
+$ pip install tqdm
+```
+To install seaborn:
+```
+$ pip install seaborn
+```
+To install matplotlib:
+```
+$ pip install matplotlib
 ```
 You will also need to install [Fiji](https://imagej.net/Fiji/Downloads). If you have already installed Fiji, then we are good!
