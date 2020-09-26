@@ -106,14 +106,16 @@ To get help on using EM-stellar run `python run_EM-stellar.py --help`
 
 ### Examples:
 <font size = 4>Run EM-stellar using the Fiji.app, segmentation results and ground-truth images directories:
-<font size = 4>* Linux/Mac:
+* Linux/Mac:
 ```
 python --imagej_dir=~/Fiji.app --segmentation_results_dir=~/predicted_masks --ground_truth_binary_masks_dir=~/ground_truth_masks
 ```
-<font size = 4>* Windows:
+* Windows:
 ```
 python --imagej_dir=C:/Users/Fiji.app --segmentation_results_dir=C:/Users/predicted --ground_truth_binary_masks_dir=C:/Users/ground --windows=true
 ```
 
 ### Outputs:
-<font size = 4>Running `run_EM-stellar.py` will generate two 
+<font size = 4>Running `run_EM-stellar.py` will generate two files:
+  * `Dataframe_output.html`: An html file including the table of the metrics and the performance values
+  * `Heatmap_output.png`: An image showing the heatmap of the values of the metrics VS. different methods
