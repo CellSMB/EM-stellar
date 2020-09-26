@@ -64,7 +64,7 @@ You can use the `#`-mark in code cells to comment out parts of the code. This al
   
 ---
 
-# **Running EM-stellar on your local resources**
+# **EM-stellar: stand-alone version**
 
 <font size = 4>We have received some good reviews from users who have storage issues on Google Drive or face security/privacy concern over their data. We truly understand such concerns and hence we have provided python script that you can run on your local computer/cluster. The code is provided in `run_EM-stellar.py`
 
