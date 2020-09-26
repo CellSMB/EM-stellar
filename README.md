@@ -112,5 +112,6 @@ python --imagej_dir=~/Fiji.app --segmentation_results_dir=~/predicted_masks --gr
 ```
 * Windows:
 ```
-python --imagej_dir=C:/Users/user/Desktop/Fiji.app --segmentation_results_dir=~/datasets --ground_truth_binary_masks_dir=config-f --windows=true
+python --imagej_dir=C:/Users/user/Desktop/Fiji.app --segmentation_results_dir=~/datasets 
+--ground_truth_binary_masks_dir=config-f --windows=true
 ```
