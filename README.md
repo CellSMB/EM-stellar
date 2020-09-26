@@ -61,3 +61,22 @@ This repository is official implementation of [**EM-stellar: benchmarking deep l
 
 <font size = 4>To **edit a cell**, double click on the text. This will show you either the source code (in code cells) or the source text (in text cells).
 You can use the `#`-mark in code cells to comment out parts of the code. This allows you to keep the original code piece in the cell as a comment.
+  
+---
+
+# **Running EM-stellar on your local resources**
+
+<font size = 4>We have received some good reviews from users who have storage issues on Google Drive or face security/privacy concern over their data. We truly understand such concerns and hence we have provided python script that you can run on your local computer/cluster. The code is provided in `run_EM-stellar.py`
+
+## Prerequisties
+This code has been implemented in python. You need to install [pyimagej](https://pypi.org/project/pyimagej/) which is a python wrapper for ImageJ. 
+
+To install pyimagej:
+```
+$ pip install pyimagej
+```
+To install scikit-image:
+```
+$ pip install scikit-image
+```
+You will also need to install [Fiji](https://imagej.net/Fiji/Downloads). If you have already installed Fiji, then we are good!
