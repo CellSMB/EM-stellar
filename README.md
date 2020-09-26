@@ -105,12 +105,15 @@ You will also need to install [Fiji](https://imagej.net/Fiji/Downloads). If you 
 To get help on using EM-stellar run `python run_EM-stellar.py --help`
 
 ### Examples:
-Run EM-stellar using the Fiji.app, segmentation results and ground-truth images directories:
-* Linux/Mac:
+<font size = 4>Run EM-stellar using the Fiji.app, segmentation results and ground-truth images directories:
+<font size = 4>* Linux/Mac:
 ```
 python --imagej_dir=~/Fiji.app --segmentation_results_dir=~/predicted_masks --ground_truth_binary_masks_dir=~/ground_truth_masks
 ```
-* Windows:
+<font size = 4>* Windows:
 ```
 python --imagej_dir=C:/Users/Fiji.app --segmentation_results_dir=C:/Users/predicted --ground_truth_binary_masks_dir=C:/Users/ground --windows=true
 ```
+
+### Outputs:
+<font size = 4>Running `run_EM-stellar.py` will generate two 
