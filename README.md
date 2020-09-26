@@ -100,3 +100,13 @@ To install matplotlib:
 $ pip install matplotlib
 ```
 You will also need to install [Fiji](https://imagej.net/Fiji/Downloads). If you have already installed Fiji, then we are good!
+
+## Help
+To get help on using EM-stellar run `python run_EM-stellar.py --help`
+
+### Examples:
+*Run EM-stellar using the Fiji.app, segmentation results and ground-truth images directories:
+* Linux/Mac:
+`python --imagej_dir=~/Fiji.app --segmentation_results_dir=~/predicted_masks --ground_truth_binary_masks_dir=~/ground_truth_masks`
+* Windows:
+`python --imagej_dir=C:/Users/user/Desktop/Fiji.app --segmentation_results_dir=~/datasets --ground_truth_binary_masks_dir=config-f --windows=true`
