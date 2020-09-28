@@ -68,7 +68,7 @@ You can use the `#`-mark in code cells to comment out parts of the code. This al
 
 <font size = 4>We have received some good reviews from users who have storage issues on Google Drive or face security/privacy concern over their data. We truly understand such concerns and hence we have provided python script that you can run on your local computer/cluster. The code is provided in `run_EM-stellar.py`
 
-## Prerequisties
+## Prerequisites
 This code has been implemented in python. You need to install [pyimagej](https://pypi.org/project/pyimagej/) which is a python wrapper for ImageJ. 
 
 To install pyimagej:
