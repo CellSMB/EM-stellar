@@ -108,11 +108,11 @@ To get help on using EM-stellar run `python run_EM-stellar.py --help`
 <font size = 4>Run EM-stellar using the Fiji.app, segmentation results and ground-truth images directories:
 * Linux/Mac:
 ```
-python --imagej_dir=~/Fiji.app --segmentation_results_dir=~/predicted_masks --ground_truth_binary_masks_dir=~/ground_truth_masks
+python run_EM-stellar.py --imagej_dir=~/Fiji.app --segmentation_results_dir=~/predicted_masks --ground_truth_binary_masks_dir=~/ground_truth_masks
 ```
 * Windows:
 ```
-python --imagej_dir=C:/Users/Fiji.app --segmentation_results_dir=C:/Users/predicted --ground_truth_binary_masks_dir=C:/Users/ground --windows=true
+python run_EM-stellar.py --imagej_dir=C:/Users/Fiji.app --segmentation_results_dir=C:/Users/predicted --ground_truth_binary_masks_dir=C:/Users/ground --windows=true
 ```
 
 ### Outputs:
